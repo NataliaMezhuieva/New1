@@ -1,0 +1,37 @@
+.header h1 {
+    color: red;
+}
+.logo {
+    width: 150px;
+}
+.par-first {
+    width: 100px;
+    background-color: #0000fe;
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 100px;
+}
+.par-second {
+    margin-top: 100px;
+}
+.other-text {
+    color: red
+}
+h2 {
+    background-color: #008001;
+    padding: 3px;
+    color: #fff;
+}
+.title-first {
+    padding-left: 50px;
+}
+.par-three {
+    margin-left: 100px;
+}
+.list {
+    border: 1px solid #000;
+    font-size: 20px;
+}
+.main-list {
+    font-size: bold;
+}
